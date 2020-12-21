@@ -1,5 +1,7 @@
 # PROGRAMMING LANGUAGES 1(PYTHON)
-## FURKAN AY & ZAFER YILMAZ.
+## FURKAN AY & ZAFER YILMAZ
+
+Click for Youtube video [explain](https://www.youtube.com/watch?v=0UES-P20rgs).
 
 
 
